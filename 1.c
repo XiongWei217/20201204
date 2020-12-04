@@ -14,8 +14,9 @@
 
 int main(int argc, char *argv[])
 {
-	
-	
+	printf("hello world\n");	
+	printf("hello linux\n");
+	printf("hello develop\n");
 	return 0;
 }
 
